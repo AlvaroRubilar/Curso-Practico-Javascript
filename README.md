@@ -1,6 +1,6 @@
 # Curso-Practico-Javascript
 ...
-## Taller # Figuras geométricas
+## Taller #1 Figuras geométricas
 
 - Primer paso: definir fórmulas
 - Segundo paso: implementar las fórmulas en JavaScript
